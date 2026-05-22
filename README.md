@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AnthonySafatli/AnthonySafatli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Anthony Safatli
 
-Here are some ideas to get you started:
+### Full Stack Developer • CS Student • Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  I build clean web experiences, useful software, and projects that solve real problems.
+</p>
+
+<a href="https://anthonysafatli.ca">Website</a> •
+<a href="https://github.com/AnthonySafatli">GitHub</a> •
+<a href="https://linkedin.com/in/anthony-safatli">LinkedIn</a>
+
+</div>
+
+---
+
+## About
+
+- 🎓 Computer Science student at Dalhousie University
+- 💻 Interested in full stack development & software engineering
+- ⚡ Building modern web apps with clean UI/UX
+- 🚀 Always learning, always shipping
+
+Contact me at ![anthony@anthonysafatli.ca](mailto:anthony@anthonysafatli.ca)
+
+---
+
+## Tech Stack
+
+```txt
+Frontend   - React • Vue.js • Tailwind • TypeScript
+Backend    - ASP.NET • Flask • APIs
+Database   - PostgreSQL • SQL Server
+Tools      - Git • Linux • Docker
+```
