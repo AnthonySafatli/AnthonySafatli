@@ -14,8 +14,6 @@
 
 </div>
 
----
-
 ## About
 
 - 🎓 Computer Science student at Dalhousie University
