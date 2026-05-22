@@ -31,3 +31,7 @@ Backend    - ASP.NET • Flask • APIs
 Database   - PostgreSQL • SQL Server
 Tools      - Git • Linux • Docker
 ```
+
+---
+
+If you want to see more of my work or learn more about me please visit my website!
