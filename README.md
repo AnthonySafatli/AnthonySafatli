@@ -23,8 +23,6 @@
 
 Contact me at ![anthony@anthonysafatli.ca](mailto:anthony@anthonysafatli.ca)
 
----
-
 ## Tech Stack
 
 ```txt
