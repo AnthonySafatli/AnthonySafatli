@@ -2,7 +2,7 @@
 
 # Anthony Safatli
 
-### Full Stack Developer • CS Student • Builder
+### Full Stack Developer • CS Graduate • Builder
 
 <p>
   I build clean web experiences, useful software, and projects that solve real problems.
@@ -16,7 +16,7 @@
 
 ## About
 
-- 🎓 Computer Science student at Dalhousie University
+- 🎓 Computer Science graduate from Dalhousie University
 - 💻 Interested in full stack development & software engineering
 - ⚡ Building modern web apps with clean UI/UX
 - 🚀 Always learning, always shipping
