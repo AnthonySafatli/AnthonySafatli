@@ -32,7 +32,7 @@ Database   - PostgreSQL • SQL Server
 Tools      - Git • Linux • Docker
 ```
 
-### LeetCode
+## LeetCode
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/AnthonyS125?theme=dark&font=Karma)
 
