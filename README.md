@@ -21,7 +21,7 @@
 - ⚡ Building modern web apps with clean UI/UX
 - 🚀 Always learning, always shipping
 
-Contact me at ![anthony@anthonysafatli.ca](mailto:anthony@anthonysafatli.ca)
+Contact me at ![anthony.safatli@outlook.com](mailto:anthony,safatli@outlook.com)
 
 ## Tech Stack
 
