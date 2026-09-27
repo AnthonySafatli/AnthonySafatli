@@ -32,12 +32,6 @@ Database   - PostgreSQL • SQL Server
 Tools      - Git • Linux • Docker
 ```
 
-## LeetCode
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/AnthonyS125?theme=dark&font=Karma)
-
-*Disclaimer: I just started LeetCode. Please don't judge the numbers yet.* 🫠
-
 ---
 
 If you want to see more of my work or learn more about me please visit my website!
