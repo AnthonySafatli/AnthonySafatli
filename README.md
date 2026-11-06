@@ -16,22 +16,11 @@
 
 ## About
 
-- 🎓 Computer Science graduate from Dalhousie University
-- 💻 Interested in full stack development & software engineering
-- ⚡ Building modern web apps with clean UI/UX
-- 🚀 Always learning, always shipping
+- Computer Science graduate from Dalhousie University
+- Interested in full stack development & software engineering
+- Building modern web apps with clean UI/UX
+- Always learning, always shipping
 
 Contact me at ![anthony.safatli@outlook.com](mailto:anthony,safatli@outlook.com)
 
-## Tech Stack
-
-```txt
-Frontend   - React • Vue.js • Tailwind • TypeScript
-Backend    - ASP.NET • Flask • APIs
-Database   - PostgreSQL • SQL Server
-Tools      - Git • Linux • Docker
-```
-
----
-
-If you want to see more of my work or learn more about me please visit my website!
+If you want to see more of my work or learn more about me please visit [my website](https://anthonysafatli.ca)!
